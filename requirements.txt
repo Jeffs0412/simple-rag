@@ -1,0 +1,4 @@
+# Verified working on Python 3.13.3 (Windows) on 2026-09-21.
+openai==3.16.2
+chromadb==1.5.9
+python-dotenv==1.2.3
